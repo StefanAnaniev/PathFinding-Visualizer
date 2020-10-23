@@ -1,13 +1,14 @@
 # Pathfinding Visualizer
 
-Usage:
-Run the program\n
+## Usage:
+Run the program
 Initiliaze the start and end node
 Add blocked nodes (black squares) if you want, after you initiliazed the start and end node.
 You can erase any node by right clicking on it
 After you initiliazed the board press Space so that every node can locate his neighbors
 Now the board is ready for the visualization of the algorithm
-Press:
+
+## Comands
 1 for BIDIRECTIONAL_BFS PATH VISUALIZATION
 2 for BIDIRECTIONAL_DIJKSTRA PATH VISUALIZATION
 3 for BIDIRECTIONAL_A_STAR PATH VISUALIZATION
