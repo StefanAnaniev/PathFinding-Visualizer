@@ -6,7 +6,7 @@ Initiliaze the start and end node\
 Add blocked nodes (black squares) if you want, after you initiliazed the start and end node.\
 You can erase any node by right clicking on it\
 After you initiliazed the board press Space so that every node can locate his neighbors\
-Now the board is ready for the visualization of the algorithm\
+Now the board is ready for the visualization of the algorithm
 
 ## Comands
 1 for BIDIRECTIONAL_BFS PATH VISUALIZATION\
@@ -18,4 +18,4 @@ Now the board is ready for the visualization of the algorithm\
 7 for DIJKSTRA PATH VISUALIZATION\
 8 for A_STAR PATH VISUALIZATION\
 9 for OPTIMIZED A_STAR PATH VISUALIZATION\
-c for clearing the board\
+c for clearing the board
