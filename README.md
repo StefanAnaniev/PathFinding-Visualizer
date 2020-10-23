@@ -1,7 +1,7 @@
 # Pathfinding Visualizer
 
 Usage:
-Run the program
+Run the program\n
 Initiliaze the start and end node
 Add blocked nodes (black squares) if you want, after you initiliazed the start and end node.
 You can erase any node by right clicking on it
